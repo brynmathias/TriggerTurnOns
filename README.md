@@ -42,9 +42,12 @@ set up as per usual.
     Run trigger_cfg.py
     
   - cd ../scripts
-    root -l
-    .L trigger_hadd.C+
-    trigger_hadd()
+  
+  -  root -l
+  
+  -  .L trigger_hadd.C+
+  
+  -  trigger_hadd()
     
  
 
