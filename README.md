@@ -34,7 +34,9 @@ checkout the ICF susy code:
 - svn co svn+ssh://bm409@svn.cern.ch/reps/icfsusy/trunk/AnalysisV2
 set up as per usual.
 - Make trigger evolution plot
-  - cd allhadronic/python \n
+  - cd allhadronic/python
+  
+    
     Edit trigger_cfg.py to use the latest json file. \n
     Run trigger_cfg.py
     
