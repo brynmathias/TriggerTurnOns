@@ -37,7 +37,8 @@ set up as per usual.
   - cd allhadronic/python
   
     
-    Edit trigger_cfg.py to use the latest json file. \n
+    Edit trigger_cfg.py to use the latest json file.
+    
     Run trigger_cfg.py
     
   - cd ../scripts
